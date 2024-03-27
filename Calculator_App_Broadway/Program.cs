@@ -12,4 +12,5 @@ Console.WriteLine("Please provide the second input");
 int secondInput = int.Parse(Console.ReadLine());
 
 int sum = firstInput + secondInput;
-Console.WriteLine("Sum is sum");
+Console.WriteLine(($"The result is : {sum}"));
+
