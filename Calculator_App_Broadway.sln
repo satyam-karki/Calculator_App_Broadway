@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_App_Broadway", "Calculator_App_Broadway\Calculator_App_Broadway.csproj", "{27D26CF6-993F-44CA-88E8-4FE72B338966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D26CF6-993F-44CA-88E8-4FE72B338966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D26CF6-993F-44CA-88E8-4FE72B338966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D26CF6-993F-44CA-88E8-4FE72B338966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D26CF6-993F-44CA-88E8-4FE72B338966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6709E36-DF2A-4185-A1F1-ECA1784B483E}
+	EndGlobalSection
+EndGlobal
