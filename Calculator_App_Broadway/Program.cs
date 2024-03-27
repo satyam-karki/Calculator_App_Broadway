@@ -14,3 +14,9 @@ int secondInput = int.Parse(Console.ReadLine());
 int sum = firstInput + secondInput;
 Console.WriteLine(($"The result is : {sum}"));
 
+
+
+//addition
+//substraction
+//,ultiplication
+//division
