@@ -27,7 +27,7 @@ int firstInput = int.Parse(Console.ReadLine();
 Console.WriteLine("Please provide the second input");
 int secondInput = int.Parse(Console.ReadLine());
 
-int Add = firstInput + secondInput;
+int Add = (firstInput + secondInput);
 int Sub = firstInput - secondInput;
 int Multiply = firstInput * secondInput;
 int Divide = firstInput / secondInput;  
