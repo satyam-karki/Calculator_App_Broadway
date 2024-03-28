@@ -22,7 +22,7 @@
 Console.WriteLine("Welconme to Broadway Calculator");
 
 Console.WriteLine("Please provide the first input");
-int firstInput = int.Parse(Console.ReadLine());
+int firstInput = int.Parse(Console.ReadLine();
 
 Console.WriteLine("Please provide the second input");
 int secondInput = int.Parse(Console.ReadLine());
