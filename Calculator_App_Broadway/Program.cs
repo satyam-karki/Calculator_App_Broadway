@@ -20,6 +20,22 @@
 //division
 
 Console.WriteLine("Welconme to Broadway Calculator");
+if (DateTime.Now <= 12)
+{
+    Console.WriteLine("Good Morning")
+}
+else if (DateTime.Now <= 16)
+{
+    Console.WriteLine("Good Afternoon")
+}
+else if (DateTime.Now <= 20)
+{
+    Console.WriteLine("Good Evening")
+}
+else
+{
+    Console.WriteLine("Good Night")
+}
 
 Console.WriteLine("Please provide the first input");
 int firstInput = int.Parse(Console.ReadLine();
